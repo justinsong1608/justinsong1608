@@ -6,7 +6,7 @@
 
 I'm a software engineer. I have a strong love for creating applications and writing code. As a lifelong learner, I'm always looking for new ways to improve my technical skills and stay up-to-date with the latest trends in the industry.
 
-I'm constantly seeking out new challenges and opportunities to grow, and I'm excited about the prospect of collaborating with like-minded individuals and organizations. When I'm not coding, you can find me exploring the outdoors, playing sports of all kind, or practicing my coding skills.
+I'm constantly seeking out new challenges and opportunities to grow, and I'm excited about the prospect of collaborating with like-minded individuals and organizations. When I'm not coding, you can find me exploring the outdoors, playing sports of all kind, or traveling.
 
 ### LinkedIn
 
