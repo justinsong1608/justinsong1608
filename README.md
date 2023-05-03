@@ -4,7 +4,9 @@
 
 ### About Me
 
-I am a software engineer and I love creating applications that are not only fun, but also have real-world application and use with modern, professional technologies. I am constantly seeking to improve my technical skills and I'm always open to learning new things and connecting with new people. Outside of coding, I also do professional photography work for weddings, engagements, and events as well!
+I'm a software engineer. I have a strong love for creating applications and writing code. As a lifelong learner, I'm always looking for new ways to improve my technical skills and stay up-to-date with the latest trends in the industry.
+
+I'm constantly seeking out new challenges and opportunities to grow, and I'm excited about the prospect of collaborating with like-minded individuals and organizations. When I'm not coding, you can find me exploring the outdoors, playing sports of all kind, or practicing my coding skills.
 
 ### LinkedIn
 
