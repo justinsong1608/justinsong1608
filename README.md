@@ -1,6 +1,6 @@
 ### Hi I'm Justin! 👋
 
-<!-- Picture -->
+![ReadMePhoto](https://user-images.githubusercontent.com/122064415/236073161-442cdb5a-3429-4b68-9014-886550dad16c.png)
 
 ### About Me
 
