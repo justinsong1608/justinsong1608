@@ -48,7 +48,8 @@ Feel free to connect with me! I would love to chat if you have any job opportuni
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/microsoft_azure-%23F24E1E.svg?style=for-the-badge&logo=microsoftazure&logoColor=white&color=0078D4)
-![Maven](https://img.shields.io/maven-metadata/v)
+![Maven]([https://img.shields.io/maven-metadata/v](https://img.shields.io/maven-central/v/:groupId/:artifactId
+))
 , REST API, AJAX
 
 ### Links
