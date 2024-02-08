@@ -4,27 +4,28 @@
 
 ### About Me
 
-I'm a software engineer. I have a strong love for creating applications and writing code. As a lifelong learner, I'm always looking for new ways to improve my technical skills and stay up-to-date with the latest trends in the industry.
+My name is Justin, and I'm a software engineer. I have a strong love for creating applications and writing code. As a lifelong learner, I'm always looking for new ways to improve my technical skills and stay up-to-date with the latest trends in the industry.
 
 I'm constantly seeking out new challenges and opportunities to grow, and I'm excited about the prospect of collaborating with like-minded individuals and organizations. When I'm not coding, you can find me exploring the outdoors, playing sports of all kind, or traveling.
 
 ### LinkedIn
 
-Feel free to connect with me! I would love to chat if you have any questions or just want to say hi!
+Feel free to connect with me! I would love to chat if you have any job opportunities or just want to say hi!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ](https://www.linkedin.com/in/justinsong8)
 
-![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinsong1608&theme=algolia&show_icons=true&hide=contribs)
-
 ### Stack
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=white&color=235B97)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React.js](https://img.shields.io/badge/react.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-%2320232a.svg?style=for-the-badge&logo=nextdotjs&logoColor=white&color=000000) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=6699C4&color=212121)
+![Java] (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Tools
@@ -39,9 +40,11 @@ Feel free to connect with me! I would love to chat if you have any questions or 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-, API, AJAX
+![Microsoft Azure](https://img.shields.io/badge/microsoft_azure-%23F24E1E.svg?style=for-the-badge&logo=microsoftazure&logoColor=white&color=0078D4)
+, REST API, AJAX
 
 ### Links
 
 - [LinkedIn](https://www.linkedin.com/in/justinsong8)
+- [Portfolio] (https://justinsong.vercel.app/)
 
